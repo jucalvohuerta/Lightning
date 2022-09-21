@@ -64,8 +64,6 @@ void draw()
   rect(455, 0, 45, 400);
   rect(0, 0, 500, 45);
   rect(0, 355, 500, 50);
-
-  println(mouseX, mouseY);
 }
 void mousePressed()
 {
